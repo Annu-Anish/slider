@@ -1,0 +1,76 @@
+body{
+    background-image: url(book.png);
+
+}
+
+
+    .dotted {border-style: dotted;
+              border-color: blue;
+              border-width: 2px 5px;
+            }
+    .dashed {border-style: dashed;}
+    .solid {border-style: solid;}
+    .double {border-style: double;}
+    .groove {border-style: groove;}
+    .ridge {border-style: ridge;}
+    .inset {border-style: inset;}
+
+
+  .front 
+  {  
+        border: 2px solid blue;
+         padding: 30px 40px;
+        width: fit-content;
+ }
+
+.tml
+   {
+    border: 2px solid red;
+    padding: 30px 40px;
+    outline: 3px solid;
+     width: fit-content;
+   }
+   .csss
+   {
+   /* border-left: 20px ;*/
+    border: 2px solid blue;
+    padding: 5px 5px;
+    text-decoration:underline red;
+     width: fit-content;
+   }
+   .Advcss
+   {
+    margin: 20px 10px;
+    border: 2px solid blue;
+   /* min-width: 20px;
+    max-width: 10px;*/
+    padding: 30px 40px;
+     width: fit-content;
+   }
+   .javaS
+   {
+    border: 2px solid blue;
+    padding: 30px 40px;
+     width: fit-content;
+   }
+   .bootstrap
+   {
+    border: 2px solid blue;
+    padding: 30px 40px;
+     width: fit-content;
+   }
+
+   li{
+    list-style: none;
+    padding: 20px 40px;
+    width: fit-content;
+    line-height: 40px;
+    border-bottom: 1px solid black;
+    width: 100%;
+   }
+
+   div{
+    background-color: white;
+   width: fit-content;
+   /* padding: 18px; */
+   }
